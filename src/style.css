@@ -1,0 +1,45 @@
+nav {
+  width: 100%;
+  padding: 50px 140px;
+  font-size: 16px;
+  position: fixed;
+  top: 0;
+  background-color: #ffff;
+}
+nav .company {
+  color: #272044;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 42px;
+  margin-left: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #272044;
+  transition: all 100ms ease-in-out;
+}
+
+nav a:hover {
+  color: #662eed;
+}
+
+.hero {
+  padding: 135px;
+  color: #ffff;
+  text-align: center;
+}
+
+.container {
+}
