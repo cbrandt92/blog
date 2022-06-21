@@ -2,7 +2,7 @@ nav {
   width: 100%;
   padding: 50px 140px;
   font-size: 16px;
-  position: fixed;
+  position: absolute;
   top: 0;
   background-color: #ffff;
 }
@@ -38,8 +38,17 @@ nav a:hover {
 .hero {
   padding: 135px;
   color: #ffff;
+  position: relative;
   text-align: center;
 }
 
-.container {
+.title {
+  position: absolute;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  background-color: #f9f7fe;
 }
