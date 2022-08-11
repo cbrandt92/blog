@@ -49,6 +49,27 @@ nav a:hover {
 footer {
   position: absolute;
   width: 100%;
-  left: 0px;
   background-color: #f9f7fe;
+  margin-top: 73px;
+  margin-bottom: 73px;
+}
+
+footer .company {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+h1 {
+  padding: 155px;
+  font-size: 72px;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 18px;
+  color: #662eed;
+}
+
+.information {
+  font-size: 24px;
 }
