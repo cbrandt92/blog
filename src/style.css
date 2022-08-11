@@ -47,6 +47,7 @@ nav a:hover {
 }
 
 footer {
+  padding: 20px;
   position: absolute;
   width: 100%;
   background-color: #f9f7fe;
